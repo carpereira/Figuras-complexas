@@ -1,4 +1,5 @@
 #include <SDL2/SDL.h>
+#include <SDL2_gfx.h>
 
 int main (int argc, char* args[])
 {
